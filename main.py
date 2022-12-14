@@ -1,4 +1,7 @@
-"""This is a simple program to count the number of primes"""
+"""
+This is a simple program to count the number of primes.
+Version two (should be faster)
+"""
 
 
 def filter_prime(divisor, number):
