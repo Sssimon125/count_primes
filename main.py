@@ -1,3 +1,5 @@
+"""This is a simple program to count the number of primes"""
+
 def filter_prime(divisor, number):
     """Return true if number is a potential prime"""
     if number == divisor:
